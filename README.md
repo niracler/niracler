@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=niracler" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niracler&layout=compact" height="170">
+</p>
+
 <!--
 **niracler/niracler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
