@@ -10,11 +10,11 @@ I'm **Niracler**
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   31.73 %
-JSON         1 hr 36 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
-Python       1 hr 19 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
-TypeScript   48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Markdown     41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+JavaScript   3 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   37.18 %
+JSON         1 hr 37 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+Markdown     1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+Python       1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+TypeScript   47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
 ```
 
 <!--END_SECTION:waka-->
