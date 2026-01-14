@@ -18,6 +18,11 @@ I'm a talkative developer who documents life through code and words.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elin - 如果穿越到异世界，你想过怎样的人生](https://niracler.com/elin)
+- [给他人开通 SSH 公钥登录](https://niracler.com/2025-12-02-add-ssh-key-for-others)
+- [创建个人 Claude Code Skills Marketplace](https://niracler.com/2025-12-01-claude-skill)
+- [关于我，还有这个博客](https://niracler.com/about)
+- [Shadowsocks-Rust + Surge 部署实践](https://niracler.com/shadowsocks-rust-surge-deployment)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Coding
