@@ -42,4 +42,4 @@ TypeScript   45 mins         █░░░░░░░░░░░░░░░░
 ## Connect
 
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://niracler.com)
-[![Follow](https://img.shields.io/badge/-Follow-F97316?style=flat&logo=rss&logoColor=white)](https://app.folo.is/share/users/niracler)
+[![Folo](https://img.shields.io/badge/-Folo-F97316?style=flat&logo=folo&logoColor=white)](https://app.folo.is/share/users/niracler)
