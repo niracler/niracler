@@ -4,9 +4,9 @@
 
 I'm a talkative developer who documents life through code and words.
 
-**Currently**: IoT application development, Claude Code skills, blogging
-**Interests**: Games (Elin 260h+), anime, audiobooks, long narratives
-**2026 Theme**: A cyborg trying to recover a sense of reality
+**Currently**: IoT application development, Claude Code skills, blogging。
+**Interests**: Games (Elin 260h+), anime, audiobooks, long narratives  
+**2026 Theme**: A cyborg trying to recover a sense of reality  
 
 ## Tech Stack
 
