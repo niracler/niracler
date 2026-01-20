@@ -30,11 +30,11 @@ I'm a talkative developer who documents life through code and words.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown             11 hrs 55 mins  █████████████▓░░░░░░░░░░░   54.59 %
-Python               2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-YAML                 1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-JSON                 1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-TypeScript           1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Markdown             11 hrs 59 mins  ████████████░░░░░░░░░░░░░   48.33 %
+Other                3 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Python               2 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+JSON                 2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+TypeScript           1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
 ```
 
 <!--END_SECTION:waka-->
