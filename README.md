@@ -18,11 +18,11 @@ I'm a talkative developer who documents life through code and words.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Feed Content Reading Habits -- Self-Rescue of an Internet Exhaust Recycler](https://niracler.com/en/feed-reading-posture)
 - [Feed 内容阅读姿势 -- 互联网尾气回收员的自救](https://niracler.com/feed-reading-posture)
 - [Elin - 如果穿越到异世界，你想过怎样的人生](https://niracler.com/elin)
 - [给他人开通 SSH 公钥登录](https://niracler.com/2025-12-02-add-ssh-key-for-others)
 - [创建个人 Claude Code Skills Marketplace](https://niracler.com/2025-12-01-claude-skill)
-- [关于我，还有这个博客](https://niracler.com/about)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Coding
