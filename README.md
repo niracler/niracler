@@ -30,11 +30,11 @@ I'm a talkative developer who documents life through code and words.
 <!--START_SECTION:waka-->
 
 ```txt
-Other                15 hrs 29 mins        █████████████░░░░░░░░░░░░   51.35 %
-Markdown             6 hrs 52 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
-MDX                  2 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-Python               1 hr 14 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Astro                1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Other                14 hrs 51 mins        ████████████▓░░░░░░░░░░░░   50.91 %
+Markdown             6 hrs 48 mins         ██████░░░░░░░░░░░░░░░░░░░   23.34 %
+MDX                  2 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Python               1 hr 14 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Astro                1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
