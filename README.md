@@ -30,9 +30,9 @@ I'm a talkative developer who documents life through code and words.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   23 mins               ███████████▓░░░░░░░░░░░░░   46.24 %
-Other      19 mins               █████████▒░░░░░░░░░░░░░░░   37.29 %
-YAML       8 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+Markdown   23 mins               ███████████▓░░░░░░░░░░░░░   46.90 %
+Other      18 mins               █████████░░░░░░░░░░░░░░░░   36.40 %
+YAML       8 mins                ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
 ```
 
 <!--END_SECTION:waka-->
