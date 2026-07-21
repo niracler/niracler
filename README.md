@@ -18,7 +18,7 @@ I'm a talkative developer who documents life through code and words.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [2607-1-九十天的长度-v0.2](https://niracler.com/2607-1)
+- [2607-1-九十天的长度](https://niracler.com/2607-1)
 - [从「影响圈」和「关注圈」的视角看待 AI 时代的软件工程师岗位](https://niracler.com/circle-of-influence-ai-engineer)
 - [How Do You Live?](https://niracler.com/how-do-you-live)
 - [2604-1-独自登山-消失的附近-Pokopia-寿司郎](https://niracler.com/2604-1)
