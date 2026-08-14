@@ -18,11 +18,11 @@ I'm a talkative developer who documents life through code and words.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NANA-爱情的真伪-朋克之诗](https://niracler.com/nana)
 - [渣渣圈 X 专业 X 兴趣爱好](https://niracler.com/amateur-circle-profession-hobbies)
 - [与陌生人交往](https://niracler.com/interacting-with-strangers)
 - [2607-1-九十天的长度](https://niracler.com/2607-1)
 - [从「影响圈」和「关注圈」的视角看待 AI 时代的软件工程师岗位](https://niracler.com/circle-of-influence-ai-engineer)
-- [How Do You Live?](https://niracler.com/how-do-you-live)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Coding
